@@ -1,0 +1,7 @@
+C:\Users\arafat\source\repos\Information_Form\bin\Debug\Information_Form.exe.config
+C:\Users\arafat\source\repos\Information_Form\bin\Debug\Information_Form.exe
+C:\Users\arafat\source\repos\Information_Form\bin\Debug\Information_Form.pdb
+C:\Users\arafat\source\repos\Information_Form\obj\Debug\Information_Form.csprojAssemblyReference.cache
+C:\Users\arafat\source\repos\Information_Form\obj\Debug\Information_Form.csproj.CoreCompileInputs.cache
+C:\Users\arafat\source\repos\Information_Form\obj\Debug\Information_Form.exe
+C:\Users\arafat\source\repos\Information_Form\obj\Debug\Information_Form.pdb
